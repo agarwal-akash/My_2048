@@ -1,4 +1,4 @@
-# 2048
+# My_2048
 A modified version of the original 2048 Game.
 
 ## Screenshot
@@ -12,6 +12,6 @@ Changes and improvements are more than welcome! Feel free to fork and open a pul
 
 ## License [![AUR](https://img.shields.io/aur/license/yaourt.svg?maxAge=2592000)](https://github.com/agarwal-akash/My_2048/blob/gh-pages/LICENSE.txt)
 
-2048 is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
+My_2048 is licensed under the [GNU GPLv3.](https://github.com/agarwal-akash/My_2048/blob/gh-pages/LICENSE.txt)
 
 Thank you! :bowtie:
