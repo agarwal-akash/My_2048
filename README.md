@@ -10,8 +10,8 @@ A modified version of the original 2048 Game.
 ## Contributing
 Changes and improvements are more than welcome! Feel free to fork and open a pull request. Please make your changes in a specific branch and request to pull into `master`! If you can, please make sure the game fully works before sending the PR, as that will help speed up the process.
 
-## License
+## License [![AUR](https://img.shields.io/aur/license/yaourt.svg?maxAge=2592000)](My_2048/LICENSE.txt)
+
 2048 is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
-[![AUR](https://img.shields.io/aur/license/yaourt.svg?maxAge=2592000)]()
 
 Thank you! :bowtie:
